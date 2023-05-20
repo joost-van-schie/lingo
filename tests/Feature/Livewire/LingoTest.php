@@ -2,7 +2,6 @@
 
 namespace Tests\Feature\Livewire;
 
-use App\Http\Livewire\CreateGame;
 use App\Http\Livewire\Lingo;
 use App\Models\Game;
 use Illuminate\Foundation\Testing\DatabaseMigrations;
